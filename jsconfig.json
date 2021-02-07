@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  },
+  "include": ["src", "src/views/base/BookingsData/BookingsData.js"]
+}
